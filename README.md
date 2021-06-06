@@ -38,4 +38,4 @@ Contenido del repositorio del trabajo.
 
 •	data_exploration_step.py: incluye fragmentos del código utilizados para la exploración de los datos y el estudio y aplicación de la eliminación de valores extremos en la transición de sedestación a bipedestación.
 
-•	Memoria TFM – Carlos Jové.docx: contiene la memoria del trabajo final del máster de Carlos Jové. 
+•	Memoria TFM – Carlos Jové-PDF.pdf: contiene la memoria del trabajo final del máster de Carlos Jové. 
