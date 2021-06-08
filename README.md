@@ -18,6 +18,7 @@ Contenido del repositorio del trabajo.
 •	variable_extraction_s2s.py: contiene el código para realizar la extracción de las variables de la transición de sedestación a bipedestación.
 
 •	variable_extraction_step.py: contiene el código para realizar la extracción de las variables de la marcha en superficie plana.
+
 •	implementation.py: contiene el código para la implementación de los archivos descritos en los puntos anteriores.
 
 •	plotting.py: contiene el código utilizado para la validación de los algoritmos de este trabajo a través de visualización.
